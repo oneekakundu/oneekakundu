@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oneekakundu&label=Profile%20views&color=0e75b6&style=flat" alt="oneekakundu" /> </p>
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **DSA, Problem Solving**
-
 - 📫 How to reach me **oneekakundu@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j-OLoHwBBwQUNQFuXc3DAZK9kKetDIh7/view?usp=sharing](https://drive.google.com/file/d/1j-OLoHwBBwQUNQFuXc3DAZK9kKetDIh7/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
